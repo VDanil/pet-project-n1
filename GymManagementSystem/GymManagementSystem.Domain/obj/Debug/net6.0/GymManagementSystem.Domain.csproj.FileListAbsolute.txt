@@ -1,0 +1,24 @@
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.deps.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.csproj.AssemblyReference.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.AssemblyInfoInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.AssemblyInfo.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.csproj.CoreCompileInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\refint\GymManagementSystem.Domain.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\ref\GymManagementSystem.Domain.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.deps.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\bin\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.csproj.AssemblyReference.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.AssemblyInfoInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.AssemblyInfo.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.csproj.CoreCompileInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\refint\GymManagementSystem.Domain.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Domain\obj\Debug\net6.0\ref\GymManagementSystem.Domain.dll

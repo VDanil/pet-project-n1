@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.26-alpha">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>584ac544-2cda-4808-8dc2-ddab8a4e30ef</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupCommand>npm start</StartupCommand>
+    <JavaScriptTestFramework>Jasmine</JavaScriptTestFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="src\app\auth\auth-component\" />
+    <Folder Include="src\app\components\visitor-components\visitor-coach-component\" />
+    <Folder Include="src\app\components\visitor-components\visitor-group-component\" />
+    <Folder Include="src\app\components\visitor-components\visitor-subscription-component\" />
+    <Folder Include="src\app\services\admin-services\" />
+  </ItemGroup>
+</Project>

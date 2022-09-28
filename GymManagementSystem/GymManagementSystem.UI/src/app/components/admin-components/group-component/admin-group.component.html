@@ -1,0 +1,87 @@
+<br />
+<br />
+<br />
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th>№</th>
+      <th>Group name</th>
+      <th>Description</th>
+      <th></th>
+      <th></th>
+      <th>Edit</th>
+      <th>Delete</th>
+    </tr>
+  </thead>
+
+  <!--Groups data-->
+  <tbody>
+    <tr *ngFor="let group of groups; index as i">
+      <td>{{i}}</td>
+      <td>{{group.GroupName}}</td>
+      <td>{{group.Description}}</td>
+      <td></td>
+      <td></td>
+      <td (click)="showUpdateForm(group)">✐</td>
+      <td (click)="deleteGroup(group.GroupId)">╳</td>
+    </tr>
+    <tr [ngClass]="{'hideForm':showForm}">
+      <td (click)="showUpdateForm()">+</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!--Add form-->
+<div [ngClass]="{'hideForm':!showForm}">
+  <div class="container">
+    <form>
+      <label>Group name</label>
+  <input type="text" placeholder="Group name..." [(ngModel)]="tempGroup.GroupName" name="GroupName" />
+
+  <label>Group description</label>
+  <input type="text" placeholder="Description..." [(ngModel)]="tempGroup.Description" [ngModelOptions]="{standalone: true}" />
+
+  <label>Start of classes</label>
+  <input type="number" placeholder="At what time (7 -> 7 am, 17 -> 5 p.m.)..." min="0" max="23" [(ngModel)]="tempActivityTime" [ngModelOptions]="{standalone: true}" />
+
+      <label>Timetable</label>
+      <div>
+        <table class="timetable-table">
+          <thead>
+            <tr>
+              <th>Sun.</th>
+              <th>Mon.</th>
+              <th>Tue.</th>
+              <th>Wed.</th>
+              <th>Thu.</th>
+              <th>Fri.</th>
+              <th>Sat.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td (click)="timetableStateChanged(0);">{{tempDayState[0]}}</td>
+              <td (click)="timetableStateChanged(1);">{{tempDayState[1]}}</td>
+              <td (click)="timetableStateChanged(2);">{{tempDayState[2]}}</td>
+              <td (click)="timetableStateChanged(3);">{{tempDayState[3]}}</td>
+              <td (click)="timetableStateChanged(4);">{{tempDayState[4]}}</td>
+              <td (click)="timetableStateChanged(5);">{{tempDayState[5]}}</td>
+              <td (click)="timetableStateChanged(6);">{{tempDayState[6]}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <input type="submit" value="Submit" (click)="closeUpdateForm();" />
+    </form>
+  </div>
+</div>
+

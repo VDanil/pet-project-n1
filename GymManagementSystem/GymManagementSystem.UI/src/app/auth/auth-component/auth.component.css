@@ -1,0 +1,37 @@
+.auth-body {
+  font-family: "Lato", sans-serif;
+  color: white;
+}
+
+img {
+  max-width: 3%;
+  height: 3%;
+  border-radius: 50%;
+}
+
+  img:hover {
+    box-shadow: 0 0 2px 10px rgba(0, 140, 186, 0.5);
+  }
+
+.myMenu {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width : 5%;
+}
+
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+  .btn:hover {
+    background-color: #3e8e41;
+    color: white;
+  }

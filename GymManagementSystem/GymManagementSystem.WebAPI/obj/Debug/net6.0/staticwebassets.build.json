@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iZvM8kzzemcei6KUeM+UVzlvHApaE5JF6G/I1KUG5kU=",
+  "Source": "GymManagementSystem.WebAPI",
+  "BasePath": "_content/GymManagementSystem.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

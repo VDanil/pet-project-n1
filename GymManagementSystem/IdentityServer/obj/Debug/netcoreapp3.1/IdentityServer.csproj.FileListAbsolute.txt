@@ -1,0 +1,136 @@
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.dev.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.AssemblyReference.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.input.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.output.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorCoreGenerate.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.dev.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.AssemblyReference.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.input.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.output.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorCoreGenerate.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache

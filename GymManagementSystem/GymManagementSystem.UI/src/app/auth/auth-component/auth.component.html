@@ -1,0 +1,14 @@
+<div class="auth-body">
+
+  <div *ngIf="!isAuthenticated">
+    <img (click)="login()"  src="../../../assets/images/user_black.jpg" />
+  </div>
+
+  <div *ngIf="isAuthenticated">
+    <img (click)="logout()" src="../../../assets/images/user_white.jpg" />
+    <div class="myMenu">
+      <button class=".btn" type="button" (click)="goToAdminGroup()">GROUP</button>
+    </div>
+
+  </div>
+</div>

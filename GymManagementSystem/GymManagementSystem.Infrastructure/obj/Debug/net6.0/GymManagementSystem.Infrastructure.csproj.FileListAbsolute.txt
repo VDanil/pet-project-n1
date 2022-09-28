@@ -1,0 +1,34 @@
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.deps.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.runtimeconfig.json
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.AssemblyInfo.cs
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.CopyComplete
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\refint\GymManagementSystem.Infrastructure.dll
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.pdb
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.genruntimeconfig.cache
+E:\0Текущий учебный год\0 семестр\0SANDBOX\c#\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\ref\GymManagementSystem.Infrastructure.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.deps.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.runtimeconfig.json
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Infrastructure.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Domain.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\bin\Debug\net6.0\GymManagementSystem.Domain.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.AssemblyInfo.cs
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.csproj.CopyComplete
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\refint\GymManagementSystem.Infrastructure.dll
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.pdb
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\GymManagementSystem.Infrastructure.genruntimeconfig.cache
+E:\1WORK\GymManagementSystem\Gym Managment\Code\gym\GymManagementSystem\GymManagementSystem.Infrastructure\obj\Debug\net6.0\ref\GymManagementSystem.Infrastructure.dll

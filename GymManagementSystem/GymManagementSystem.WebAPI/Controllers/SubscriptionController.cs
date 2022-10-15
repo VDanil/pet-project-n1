@@ -8,7 +8,6 @@ namespace GymManagementSystem.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Policy = "Administrator")]
     public class SubscriptionController : ControllerBase
     {
         private readonly ISubscriptionUseCases subscriptionUseCases;
@@ -19,6 +18,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> PostSubscriptionAsync(Subscription subscription)
         {
             if (subscription == null) return BadRequest();
@@ -29,6 +29,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{subscriptionId:int}")]
         public async Task<IActionResult> GetSubscriptionAsync(int subscriptionId)
         {
@@ -39,6 +40,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> GetSubscriptionsAsync()
         {
             var subscriptions = await subscriptionUseCases.GetSubscriptionsAsync();
@@ -48,6 +50,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{subscriptionId:int}/freeze")]
         public async Task<IActionResult> FreezeSubscriptionAsync(int subscriptionId)
         {
@@ -64,6 +67,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{subscriptionId:int}/unfreeze")]
         public async Task<IActionResult> UnfreezeSubscriptionAsync(int subscriptionId)
         {
@@ -77,6 +81,17 @@ namespace GymManagementSystem.WebAPI.Controllers
                 return Ok(JsonSerializer.Serialize(IsUnfreezed));
             else
                 return Ok(JsonSerializer.Serialize(IsUnfreezed));
+        }
+
+        [HttpPut]
+        [Route("/api/visitor/SubscriptionPrice")]
+        public async Task<IActionResult> CalculateSubscriptionPriceAsync(Subscription subscription)
+        {
+            if (subscription == null) return Ok();
+
+            subscription.Price = await subscriptionUseCases.CalculateSubscriptionPriceAsync(subscription);
+
+            return Ok(JsonSerializer.Serialize(subscription));
         }
     }
 }

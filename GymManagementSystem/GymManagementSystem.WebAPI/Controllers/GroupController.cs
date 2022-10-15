@@ -8,24 +8,28 @@ namespace GymManagementSystem.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Policy = "Administrator")]
     public class GroupController : ControllerBase
     {
         private readonly IGroupUseCases groupUseCases;
         private readonly ITimetableUseCases timetableUseCases;
+        private readonly IVisitorUseCases visitorUseCases;
 
-        public GroupController(IGroupUseCases groupUseCases, ITimetableUseCases timetableUseCases)
+        public GroupController(IGroupUseCases groupUseCases, 
+                               ITimetableUseCases timetableUseCases, 
+                               IVisitorUseCases visitorUseCases)
         {
             this.groupUseCases = groupUseCases;
             this.timetableUseCases = timetableUseCases;
+            this.visitorUseCases = visitorUseCases;
         }
 
         [HttpPost]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> PostGroupAsync(Group group)
         {
             if (group == null) return BadRequest();
             group.Activities = null;
-            
+
             var groupId = await groupUseCases.AddGroupAsync(group);
             group.GroupId = groupId;
 
@@ -33,6 +37,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{groupId:int}")]
         public async Task<IActionResult> GetGroupAsync(int groupId)
         {
@@ -43,6 +48,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> GetGroupsAsync()
         {
             var groups = await groupUseCases.GetGroupsAsync();
@@ -52,6 +58,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> PutGroupAsync(Group group)
         {
             if (group == null) return BadRequest();
@@ -63,6 +70,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Policy = "Administrator")]
         [Route("{groupId:int}")]
         public async Task<IActionResult> DeleteGroupAsync(int groupId)
         {
@@ -76,6 +84,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{groupId:int}/timetable")]
         public async Task<ActionResult> GetGroupTimetableAsync(int groupId)
         {
@@ -86,8 +95,9 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Policy = "Administrator")]
         [Route("{groupId:int}/timetable")]
-        public async Task<ActionResult> PutGroupTimetableAsync(List<Activity> activities,int groupId)
+        public async Task<ActionResult> PutGroupTimetableAsync(List<Activity> activities, int groupId)
         {
             if (activities == null) return BadRequest();
 
@@ -96,6 +106,16 @@ namespace GymManagementSystem.WebAPI.Controllers
             await timetableUseCases.SetGroupTimetableAsync(groupId, activities);
 
             return Ok();
+        }
+
+        [HttpGet]
+        [Route("/api/visitor/groups")]
+        public async Task<IActionResult> GetGroupsForVisitorAsync()
+        {
+            var groups = await visitorUseCases.GetGroupsGeneralInfoAsync();
+            if (groups.Count == 0) return Ok();
+
+            return Ok(JsonSerializer.Serialize(groups));
         }
     }
 }

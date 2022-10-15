@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj": {}
+    "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj": {
+    "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj",
+        "projectUniqueName": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj",
         "projectName": "GymManagementSystem.Domain",
-        "projectPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj",
+        "projectPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-        "outputPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\obj\\",
+        "outputPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\soft\\VS 2019\\VS Component\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj": {
+    "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
+        "projectUniqueName": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
         "projectName": "GymManagementSystem.Infrastructure",
-        "projectPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
+        "projectPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-        "outputPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\obj\\",
+        "outputPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\soft\\VS 2019\\VS Component\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj": {
-                "projectPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj"
+              "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj": {
+                "projectPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Domain\\GymManagementSystem.Domain.csproj"
               }
             }
           }

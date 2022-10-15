@@ -3718,11 +3718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
+      "projectPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
       "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-      "outputPath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\IdentityServer\\obj\\",
+      "outputPath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\soft\\VS 2019\\VS Component\\NuGetPackages"

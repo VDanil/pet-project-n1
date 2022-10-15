@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WfpVkHLaFe2kNf6JT1nPnu7ZnaDvgGSUnmdxsQB6AxvPSk/tA/yEBIPppBwZLTks4+INi5hVo46fY3JJfCxB4w==",
+  "dgSpecHash": "empxghnLNma2oMInhV31i9NyFR4x7+mrhachM7QY2cNYdAQbn9VeJskskWKKNhxs9VNqwHcW70VEIsppCew/CQ==",
   "success": true,
-  "projectFilePath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
+  "projectFilePath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\GymManagementSystem.Infrastructure\\GymManagementSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danil\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Danil\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

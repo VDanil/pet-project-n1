@@ -91,3 +91,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// TODO: Wrewrite controller layer so that classes cept single responsibility principle REMOVE VisitorController
+// TODO: Wrewrite controller layer so that classes cept single responsibility principle REMOVE VisitorUseCases && AdministratorUseCases

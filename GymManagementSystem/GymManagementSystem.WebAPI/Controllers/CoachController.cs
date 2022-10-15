@@ -8,24 +8,28 @@ namespace GymManagementSystem.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Policy = "Administrator")]
     public class CoachController : ControllerBase
     {
         private readonly ICoachUseCases coachUseCases;
         private readonly ITimetableUseCases timetableUseCases;
+        private readonly IVisitorUseCases visitorUseCases;
 
-        public CoachController(ICoachUseCases coachUseCases, ITimetableUseCases timetableUseCases)
+        public CoachController(ICoachUseCases coachUseCases,
+                               ITimetableUseCases timetableUseCases,
+                               IVisitorUseCases visitorUseCases)
         {
             this.coachUseCases = coachUseCases;
             this.timetableUseCases = timetableUseCases;
+            this.visitorUseCases = visitorUseCases;
         }
 
-        [HttpPost]      
+        [HttpPost]
+        [Authorize(Policy = "Administrator")]
         public async Task<IActionResult> PostCoachAsync(Coach coach)
         {
             if (coach == null) return BadRequest();
 
-            if (!ModelState.IsValid) return BadRequest(ModelState);         
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
             await coachUseCases.AddCoachAsync(coach);
 
@@ -33,6 +37,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{coachId:int}")]
         public async Task<IActionResult> GetCoachAsync(int coachId)
         {
@@ -53,6 +58,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Policy = "Administrator")]
         public async Task<ActionResult> PutCoachAsync(Coach coach)
         {
             if (coach == null) return BadRequest();
@@ -63,8 +69,8 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpDelete]
-        [Route("{coachId:int}")]
         [Authorize(Policy = "Administrator")]
+        [Route("{coachId:int}")]
         public async Task<IActionResult> DeleteCoachAsync(int coachId)
         {
             await coachUseCases.DeleteCoachAsync(coachId);
@@ -73,6 +79,7 @@ namespace GymManagementSystem.WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "Administrator")]
         [Route("{coachId:int}/timetable")]
         public async Task<ActionResult> GetCoachTimetableAsync(int coachId)
         {
@@ -80,6 +87,16 @@ namespace GymManagementSystem.WebAPI.Controllers
             if (timetable == null) return BadRequest();
 
             return Ok(timetable);
+        }
+
+        [HttpGet]
+        [Route("/api/visitor/coaches")]
+        public async Task<IActionResult> GetCoachesForVisitorAsync()
+        {
+            var coaches = await visitorUseCases.GetCoachesGeneralInfoAsync();
+            if (coaches.Count == 0) return Ok();
+
+            return Ok(JsonSerializer.Serialize(coaches));
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4VnnrlYmi6y9hVKI+AYn2NnIKoQcGVs3JHWh6QVgwHaEogBwamn0XvXPP/G7GaWDEG3X5gWxANUTK55A4+TDg==",
+  "dgSpecHash": "VC90IU8kV04Uaau3wKfigN7JDTYS80QTXx5Uatj5cIyUhyInWkpyT9Koun0DLytdBsiOqWeWsgNNH/S57hla6w==",
   "success": true,
-  "projectFilePath": "E:\\1WORK\\GymManagementSystem\\Gym Managment\\Code\\gym\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "E:\\1WORK\\ForGitRep\\pet-project-n1\\GymManagementSystem\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danil\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Danil\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

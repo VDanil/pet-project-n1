@@ -4,7 +4,7 @@ using GymManagementSystem.Infrastructure;
 
 namespace GymManagementSystem.Application
 {
-    public class VisitorUseCases : IVisitorUseCases // TODO: Wrewrite this class to keep principle Information expert
+    public class VisitorUseCases : IVisitorUseCases
     {
         private readonly IGroupsRepository groupsRepository;
         private readonly ICoachesRepository coachesRepository;
